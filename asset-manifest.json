@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rectrepo/static/css/main.0800c22e.css",
+    "main.js": "/rectrepo/static/js/main.49a93585.js",
+    "static/js/787.9f25686f.chunk.js": "/rectrepo/static/js/787.9f25686f.chunk.js",
+    "index.html": "/rectrepo/index.html",
+    "main.0800c22e.css.map": "/rectrepo/static/css/main.0800c22e.css.map",
+    "main.49a93585.js.map": "/rectrepo/static/js/main.49a93585.js.map",
+    "787.9f25686f.chunk.js.map": "/rectrepo/static/js/787.9f25686f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0800c22e.css",
+    "static/js/main.49a93585.js"
+  ]
+}
